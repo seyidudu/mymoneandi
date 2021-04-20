@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433356147684",
+    "project_id": "my-money-and-i",
+    "storage_bucket": "my-money-and-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433356147684:android:973855a70cac40b96455f1",
+        "android_client_info": {
+          "package_name": "ca.nait.benedict.mymoneyandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433356147684-jv35rhho15uj1528cbh5p6dqsaj32213.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.nait.benedict.mymoneyandi",
+            "certificate_hash": "654bec67336f7de7723017779dd4edefd76c606f"
+          }
+        },
+        {
+          "client_id": "433356147684-e88baamkqcutnmgk2cs47ms4tcqljv7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMUCeCt0qI5lk9J55gbq5MgHwl34bgnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433356147684-e88baamkqcutnmgk2cs47ms4tcqljv7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
